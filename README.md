@@ -12,7 +12,7 @@
 ### 🔧 About Me
 
 - 🔭 I’m currently working on a **Spotify Clone**
-- 👨‍💻 All of my projects are available at: [**My Portfolio**](https://main-portfolio-six-rosy.vercel.app/)
+- 👨‍💻 All of my projects are available at: [**My Portfolio**](https://main-portfolio-priyanshu.vercel.app/)
 - 📫 How to reach me: **kpriyanshu200@gmail.com**
 - 📄 Know more about my experience: [**My Resume**](https://docs.google.com/document/d/1ZDMjKy_5bn8PoY-crZL_LbXv18Yj2KUX/edit?tab=t.0)
 
