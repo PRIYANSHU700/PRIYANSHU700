@@ -1,6 +1,6 @@
 # Hi 👋, I'm Priyanshu
 
-### Full-Stack Developer | MERN + Spring Boot | Building scalable web apps & AI-powered solutions
+### Full-Stack Developer | MERN + AI | Building scalable web apps & AI-powered solutions
 
 <p align="left">
   <a href="https://main-portfolio-priyanshu.vercel.app/" target="_blank">
