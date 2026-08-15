@@ -2,7 +2,7 @@
 
 # Hi there, I'm Priyanshu 👋
 
-### Full-Stack Developer | MERN + Spring Boot | AI-Powered Solutions
+### Full-Stack Developer | MERN + AI | AI-Powered Solutions
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2B6CB0&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Full-Stack+Developer+(MERN+%2B+Spring+Boot);Open+to+Software+Developer+roles;200%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 
